@@ -3,11 +3,11 @@
 int main() {
     float number;
 
-    printf("Enter a floating point number: ");
+    printf("");
     
     scanf("%f", &number);
     
-    printf("You entered: %f\n", number);
+    printf(": %f\n", number);
 
     return 0;
 }
