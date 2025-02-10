@@ -2,7 +2,7 @@
 
 int main() {
     float num;
-    printf("Enter a float number: ");
+    printf("");
     scanf("%f", &num);
     printf("You entered: %.2f\n", num);
 
