@@ -2,12 +2,12 @@
 
 int main() {
     int num1, num2, sum;
-    printf("");
+    printf("Enter first integer: ");
     scanf("%d", &num1);
-    printf("");
+    printf("Enter second integer: ");
     scanf("%d", &num2);
     sum = num1 + num2;
-    printf("sum  %d\n", num1, num2, sum);
+    printf("The sum of %d and %d is %d\n", num1, num2, sum);
 
     return 0;
 }
