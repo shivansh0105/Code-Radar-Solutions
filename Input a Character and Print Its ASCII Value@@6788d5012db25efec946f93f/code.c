@@ -5,7 +5,7 @@ int main() {
 
     printf("");
     scanf("%c", &ch);
-    printf("ASCII value of '%c' is %d\n", ch, (int)ch);
+    printf("ASCII value of '%c' is %d\n", ch);
 
     return 0;
 }
