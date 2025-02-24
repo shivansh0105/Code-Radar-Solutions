@@ -6,7 +6,7 @@ int main() {
     scanf("%d", &decimal_number);
 
     printf("");
-    printf("Octal: %o\n", decimal_number);
+    printf("");
 
     return 0;
 }
